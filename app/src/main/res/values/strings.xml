@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pulsus</string>
+    <string name="search_go">search</string>
+    <string name="btn_search_go">btn search</string>
+    <string name="categories">Categories</string>
+    <string name="category">Category: </string>
+    <string name="unknown">Unknown</string>
+    <string name="url">URL</string>
+</resources>
